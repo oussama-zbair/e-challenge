@@ -40,7 +40,7 @@ public class BuildSubsequences {
     }
 
 
-    /** This code will print all the subsequences of the string "abc", including the empty string, like this:
+    /** This code will print all the subsequences of any string for example "abc", including the empty string, like this:
      *
      * ""
      * "a"

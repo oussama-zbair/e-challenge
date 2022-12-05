@@ -1,7 +1,6 @@
 package com.echallenge.solution;
 
-import java.util.ArrayList;
-import java.util.List;
+
 
 public class EfficientCost {
     // not completed in progress...
