@@ -3,7 +3,7 @@ package com.echallenge.solution;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class PrintSubsequences {
+public class BuildSubsequences {
     public static void main(String[] args) {
         // The input string
         Scanner inputStr = new Scanner(System.in);
